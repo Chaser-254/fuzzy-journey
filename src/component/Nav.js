@@ -16,12 +16,12 @@ const Nav = ({ setdisplay }) => {
             </li>
             <li>
                 <NavLink to="Bio" className="a">
-                    Bio
+                    About Me
                 </NavLink>
             </li>
             <li>
                 <NavLink to="contact" className="a">
-                    Contact Me
+                    Lets Connect
                 </NavLink>
             </li>
         </ul>
