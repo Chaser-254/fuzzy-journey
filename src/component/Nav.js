@@ -21,7 +21,7 @@ const Nav = ({ setdisplay }) => {
             </li>
             <li>
                 <NavLink to="contact" className="a">
-                    Lets Connect
+                    Let's Connect
                 </NavLink>
             </li>
         </ul>
