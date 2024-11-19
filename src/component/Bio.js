@@ -1,4 +1,4 @@
-import Manu from "../img/20241105_133047.jpg"
+import 20241105_133047 from "../img/20241105_133047.jpg"
 const Bio = () => {
     return (
         <div className="bio">
