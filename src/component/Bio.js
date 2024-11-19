@@ -1,9 +1,9 @@
-import Manu from "../img/manu.png"
+import Manu from "../img/20241105_133047.jpg"
 const Bio = () => {
     return (
         <div className="bio">
             <div className="inner">
-                <img src={Manu} alt="manu-img" />
+                <img src={20241105_133047} alt="20241105_133047" />
             </div>
             <div className="about-me">
                 <b className="hello">Hello</b> <br/>
