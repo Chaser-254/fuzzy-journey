@@ -48,10 +48,6 @@ const Skills = () => {
               Node js
             </li>
             <li>
-              <Express className="icon white" />
-              Express js
-            </li>
-            <li>
               <Django className="icon" />
               Django
             </li>
@@ -69,14 +65,6 @@ const Skills = () => {
               <Mysql className="icon" /> MySQL
             </li>
             <li>
-              <Mariadb className="icon" /> MariaDB
-            </li>
-            <li>
-              <Mongo className="icon" /> MongoDB
-            </li>
-            <li>
-              <Oracle className="icon" /> Oracle
-            </li>
             <li>
               <Postgresql className="icon" />PostgresSQL
             </li>
