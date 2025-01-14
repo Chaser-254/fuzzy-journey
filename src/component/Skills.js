@@ -33,15 +33,6 @@ const Skills = () => {
             <li>
               <Java className="icon white" /> Java
             </li>
-            <li>
-              <C className="icon" />C
-            </li>
-            <li>
-              <Cplus className="icon" /> C++
-            </li>
-            <li>
-              <S className="icon" /> Sql
-            </li>
           </ul>
         </div>
 
